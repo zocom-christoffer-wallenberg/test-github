@@ -1,0 +1,37 @@
+body {
+    font-size: 18px;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.big-btn {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+.round {
+    border-radius: 50px;
+    float: right;
+}
+
+h1 {
+    color: red;
+}
+
+.black {
+    color: black;
+}
+
+
+p {
+    color: #93f;
+}
+
+p {
+    font-size: 38px;
+}
